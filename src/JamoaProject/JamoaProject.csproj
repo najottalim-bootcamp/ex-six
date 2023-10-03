@@ -7,4 +7,22 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
+  <ItemGroup>
+    <Compile Remove="AppDbConext\**" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <EmbeddedResource Remove="AppDbConext\**" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Remove="AppDbConext\**" />
+  </ItemGroup>
+
+
+  <ItemGroup>
+    <Folder Include="Dtos\" />
+    <Folder Include="Service\" />
+  </ItemGroup>
+
 </Project>
