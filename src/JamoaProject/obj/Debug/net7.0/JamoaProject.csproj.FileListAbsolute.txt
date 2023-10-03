@@ -1,0 +1,14 @@
+C:\Projects\ex-six\src\JamoaProject\bin\Debug\net7.0\JamoaProject.exe
+C:\Projects\ex-six\src\JamoaProject\bin\Debug\net7.0\JamoaProject.deps.json
+C:\Projects\ex-six\src\JamoaProject\bin\Debug\net7.0\JamoaProject.runtimeconfig.json
+C:\Projects\ex-six\src\JamoaProject\bin\Debug\net7.0\JamoaProject.dll
+C:\Projects\ex-six\src\JamoaProject\bin\Debug\net7.0\JamoaProject.pdb
+C:\Projects\ex-six\src\JamoaProject\obj\Debug\net7.0\JamoaProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\ex-six\src\JamoaProject\obj\Debug\net7.0\JamoaProject.AssemblyInfoInputs.cache
+C:\Projects\ex-six\src\JamoaProject\obj\Debug\net7.0\JamoaProject.AssemblyInfo.cs
+C:\Projects\ex-six\src\JamoaProject\obj\Debug\net7.0\JamoaProject.csproj.CoreCompileInputs.cache
+C:\Projects\ex-six\src\JamoaProject\obj\Debug\net7.0\JamoaProject.dll
+C:\Projects\ex-six\src\JamoaProject\obj\Debug\net7.0\refint\JamoaProject.dll
+C:\Projects\ex-six\src\JamoaProject\obj\Debug\net7.0\JamoaProject.pdb
+C:\Projects\ex-six\src\JamoaProject\obj\Debug\net7.0\JamoaProject.genruntimeconfig.cache
+C:\Projects\ex-six\src\JamoaProject\obj\Debug\net7.0\ref\JamoaProject.dll

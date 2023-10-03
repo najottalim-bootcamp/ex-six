@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "D:\\myProjects\\JamoaProject\\ex-six\\src\\JamoaProject\\JamoaProject.csproj": {}
+    "C:\\Projects\\ex-six\\src\\JamoaProject\\JamoaProject.csproj": {}
   },
   "projects": {
-    "D:\\myProjects\\JamoaProject\\ex-six\\src\\JamoaProject\\JamoaProject.csproj": {
+    "C:\\Projects\\ex-six\\src\\JamoaProject\\JamoaProject.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\myProjects\\JamoaProject\\ex-six\\src\\JamoaProject\\JamoaProject.csproj",
+        "projectUniqueName": "C:\\Projects\\ex-six\\src\\JamoaProject\\JamoaProject.csproj",
         "projectName": "JamoaProject",
-        "projectPath": "D:\\myProjects\\JamoaProject\\ex-six\\src\\JamoaProject\\JamoaProject.csproj",
-        "packagesPath": "C:\\Users\\SANJARBEK\\.nuget\\packages\\",
-        "outputPath": "D:\\myProjects\\JamoaProject\\ex-six\\src\\JamoaProject\\obj\\",
+        "projectPath": "C:\\Projects\\ex-six\\src\\JamoaProject\\JamoaProject.csproj",
+        "packagesPath": "C:\\Users\\dilmu\\.nuget\\packages\\",
+        "outputPath": "C:\\Projects\\ex-six\\src\\JamoaProject\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\SANJARBEK\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\dilmu\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -60,7 +60,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.304\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
         }
       }
     }
